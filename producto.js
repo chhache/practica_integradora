@@ -2,5 +2,5 @@
 
 let suma = (a, b) => (a+b);
 
-console.log(suma(2+3));
-
+//salida por consola
+console.log(suma(2,3));
